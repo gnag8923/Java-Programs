@@ -1,6 +1,4 @@
-import java.util.*;
-
-public class Prime {
+public class PrimeNumber {
     public static void main(String[] args) {
         int n = 7;
         boolean check = true;
